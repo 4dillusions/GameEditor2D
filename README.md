@@ -23,5 +23,5 @@ Technology
     <li>modern C# .NET 7 platform</li>
     <li>WPF UI with MVVM + BL architecture</li>
     <li>modular, n-tier environment</li>
-    <li>SpecFlow BDD process</li>
+    <li>MSTest TDD and SpecFlow BDD processes</li>
 </ul>

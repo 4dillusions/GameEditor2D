@@ -1,0 +1,9 @@
+GE2D.All solution - Blank Solution
+
+GE2D.App - WPF Application .NET 7.0
+
+GE2D.Core - Class Library .NET 7.0
+GE2D.CoreTests - MSTest Test Project .NET 7.0
+
+GE2D.BusinessLogic - Class Library .NET 7.0
+GE2D.BusinessLogicTests - SpecFlow Project .NET 7.0 MSTest FW (need update nugets)

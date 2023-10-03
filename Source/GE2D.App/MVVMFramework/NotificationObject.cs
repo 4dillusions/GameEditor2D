@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+
 namespace GE2D.App.MVVMFramework;
 
 public abstract class NotificationObject : INotifyPropertyChanging, INotifyPropertyChanged
